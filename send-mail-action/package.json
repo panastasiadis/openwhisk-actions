@@ -1,0 +1,10 @@
+{
+  "name": "my-action",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^3.2.4",
+    "init": "^0.1.2",
+    "node-mailer": "^0.1.1",
+    "nodemailer": "^6.9.5"
+  }
+}
